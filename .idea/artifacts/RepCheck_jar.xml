@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RepCheck:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RepCheck_jar</output-path>
+    <root id="archive" name="RepCheck.jar">
+      <element id="module-output" name="RepCheck" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hanlp-1.8.4-release/hanlp-1.8.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hanlp-1.8.4-release/hanlp-1.8.4-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
